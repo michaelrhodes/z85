@@ -1,0 +1,13 @@
+{
+  "name": "z85",
+  "author": [
+    "Michael Sealand",
+    "Michael Rhodes"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "u8a": "^1.0.0"
+  }
+}
